@@ -20,7 +20,7 @@ O projeto simula um ambiente real de desenvolvimento profissional, utilizando me
 
 ## 🌎 Demo Online
 
-🔗 **Deploy:** *(Adicionar link do Netlify aqui)*
+🔗 **Deploy:** *https://gl-prime.netlify.app*
 
 ---
 
